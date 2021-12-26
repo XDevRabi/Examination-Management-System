@@ -4,9 +4,6 @@ Examination Management System using C Language
 
 
 DEVELOPED BY:
-
-SNEHA CHAMLING RAI 
-
 RABI SHIWAKOTI
 
 
